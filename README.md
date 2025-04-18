@@ -47,12 +47,12 @@ Uses custom `Node`, `LinkedList`, `Stack`, and `Queue` classes to test whether a
 
 ## 📁 Project Structure
 
-Assignment_1_S2_Release/       <- Your main project folder
-├── Question_1/                <- Folder for all code related to Question 1 (Linked List & Palindrome)
-├── Question_2/                <- Folder for your Snake Game
-├── Question_3/                <- Folder for your Ship-Island port simulation
-├── dist/                      <- Folder that contains the compiled .jar (executable Java file)
-└── README.md                  <- The file you're reading (this markdown file)
+- Assignment_1_S2_Release/   <- Your main project folder
+- Question_1/                <- Folder for all code related to Question 1 (Linked List & Palindrome)
+- Question_2/                <- Folder for your Snake Game
+- Question_3/                <- Folder for your Ship-Island port simulation
+- dist/                      <- Folder that contains the compiled .jar (executable Java file)
+- README.md                  <- The file you're reading (this markdown file)
 
 ---
 
